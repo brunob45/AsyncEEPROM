@@ -1,4 +1,4 @@
-# AVR Async EEPROM Library
+# Arduino Async EEPROM Library
 
 ## Write to EEPROM asynchronously!
 
